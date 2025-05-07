@@ -42,8 +42,13 @@ header nav ul li {
 
 header nav ul li a {
     font-size: 16px;
+    font-weight: 400;
     text-decoration: none;
     color: #1E1E1E;
+}
+
+header nav ul li a:hover {
+    color: #717AFB;
 }
 
 header nav ul li:last-of-type {
@@ -114,6 +119,12 @@ section.mic_image button {
     cursor: pointer;
 }
 
+section.mic_image button:hover {
+    background-color: white;
+    color: #717AFB;
+    border: 1px solid #717AFB;
+}
+
 section.mic_image .icons {
     position: absolute;
     width: 100%;
@@ -168,7 +179,7 @@ section.mic_image .icons .teams {
 }
 
 section.products .products_tag{
-    margin-top: 115px;
+    padding-top: 115px;
 }
 
 section.products .products_tag h2 {
@@ -201,6 +212,10 @@ section.products .products_group .product_info {
     width: 33%;
     margin: 0 20px;
     position: relative;
+}
+
+section.products .products_group .product_info:hover {
+    cursor: pointer;
 }
 
 section.products .products_group .product_info.offer::before {
@@ -277,6 +292,12 @@ section.products .products_group .product_info button {
     font-weight: 500;
 }
 
+section.products .products_group .product_info:hover button {
+    background-color: #717AFB;
+    border: 1px solid #717AFB;
+    color: white;
+}
+
 section.exclusive {
     margin-top: 90px;
     width: 100%;
@@ -324,3 +345,61 @@ section.exclusive button[type=submit] {
     margin-left: 27px;
     cursor: pointer;
 }
+
+section.exclusive button[type=submit]:hover {
+    background-color: white;
+    border: 1px solid #717AFB;
+    color: #717AFB;
+}
+
+footer {
+    background-color: #717AFB;
+}
+
+footer .container{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+ }
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding: 104px 0;
+}
+
+footer ul li {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 26px;
+}
+
+footer ul li:last-of-type {
+    margin-bottom: 0;
+}
+
+footer .container ul li.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 57px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+footer ul li a:hover {
+    color: #3B3F74;
+}    
+
+section.copyrights {
+    background-color: #3B3F74;
+    color: white;
+    text-align: center;
+    padding: 21px 0;
+    font-weight: 2 00;
+}
+
+
