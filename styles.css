@@ -24,6 +24,7 @@ header .logo {
 }
 
 header section.logo span {
+    margin: auto 0;
     margin-left: 13px;
     font-size: 32px;
 }
@@ -98,7 +99,7 @@ section.mic_image h1 {
 }
 
 section.mic_image p {
-    width: 808px;
+    width: 888px;
     font-size: 20px;
     color: #585858;
     line-height: auto;
@@ -236,7 +237,7 @@ section.products .products_group .product_info button {
     border: 1px solid #717AFB;
     margin-top: 29px;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 300;
 }
 
 section.products .products_group .product_info:hover button {
@@ -346,7 +347,216 @@ section.copyrights {
     color: white;
     text-align: center;
     padding: 21px 0;
-    font-weight: 2 00;
+    font-weight: 200;
+    font-size: 18px;
 }
 
+/*******************/
+/* Smaller Desktop */
+/*******************/
+ @media screen and (max-width: 1440px){
+    .container {
+        width: 1180px;
+        max-width: 90%;
+    } 
 
+    section.mic_image h1 {
+        margin-bottom: 50px;
+    }
+    
+    section.mic_image p {
+        margin-bottom: 24px;
+        width: 662px;
+    }
+
+    section.products .products_tag hr {
+        width: 118px;
+        margin: 100px auto;
+    }
+
+    section.products .products_group .product_info.offer::before {
+        top: 15px;
+        right: 15px;
+        padding: 4px 19px;
+        font-size: 14px;     
+    }
+    
+    section.products .products_group .product_info h3 {
+        font-size: 40px; 
+    }
+    
+    section.products .products_group .product_info .price h4 {
+        font-size: 32px;
+        margin-top: 16px;
+    }
+    
+    section.products .products_group .product_info h5 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    
+    section.products .products_group .product_info button {
+        width: 225px;
+        height: 58px;
+        margin-top: 26px;
+        font-size: 17px;
+    }
+
+    section.exclusive {
+        margin-top: 81px;
+        padding: 70px 0;
+    }
+    
+    section.exclusive p {
+        margin-top: 32px;
+        margin-bottom: 48px;
+    }
+    
+    footer ul li {
+        margin-bottom: 23px;
+    }
+    
+    section.copyrights {
+        font-size: 16px;
+    }
+ }
+
+/*******************/
+/* Tablets */
+/*******************/
+@media screen and (max-width: 960px){
+    .container {
+        width: 92%;
+        max-width: 92%;
+    } 
+
+    header section.logo span {
+        margin-left: 13px;
+        font-size: 28px;
+    }
+
+    section.mic_image h1 {
+        font-size: 24px;
+        margin-bottom: 21px;
+    }
+    
+    section.mic_image p {
+        font-size: 14px;
+        margin-bottom: 21px;
+        width: 370px;
+    }
+
+    section.mic_image button {
+        width: 127px;
+        height: 35px;
+        font-size: 12px;
+    }
+
+    section.products .products_tag{
+        padding-top: 83px;
+    }
+
+    section.products .products_group .product_info {
+        padding: 28px 0;
+    }
+    
+    section.products .products_tag h2 {
+        font-weight: 600;
+        font-size: 32px;
+    }
+
+    section.products .products_tag hr {
+        width: 78px;
+        margin: 70px auto;
+        border: 1px solid #717AFB;
+    }
+
+    section.products .products_group .product_info.offer::before {
+        top: 11px;
+        right: 11px;
+        padding: 3px 10px;
+        font-size: 9px;     
+    }
+    
+    section.products .products_group .product_info h3 {
+        font-size: 24px; 
+    }
+    
+    section.products .products_group .product_info .price h4 {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    
+    section.products .products_group .product_info h5 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    
+    section.products .products_group .product_info button {
+        width: 136px;
+        height: 38px;
+        margin-top: 16px;
+        font-size: 13px;
+    }
+    section.exclusive {
+        padding: 50px 0;
+    }
+    
+    section.exclusive h3 {
+        font-size: 24px;
+    }
+    
+    section.exclusive p {
+        font-size: 11px;
+        margin: 22px 0;
+    }
+    
+    section.exclusive input[type=email] {
+        width: 211px;
+        height: 41px;
+        padding-left: 25px;
+        font-size: 11px;
+    }
+    
+    section.exclusive button[type=submit] {
+        height: 41px;
+        font-size: 11px;
+        padding: 0 17px;
+        margin-left: 17px;
+    }
+    
+    section.exclusive button[type=submit]:hover {
+        background-color: white;
+        border: 1px solid #717AFB;
+        color: #717AFB;
+    }
+    
+    footer ul {
+        padding: 45px 0;
+    }
+    
+    footer ul li {
+        font-size: 10px;
+        margin-bottom: 12px;
+    }
+    
+    footer .container ul li.title {
+        font-size: 14px;
+        margin-bottom: 18px;
+    }
+    
+    section.copyrights {
+        padding: 11px 0;
+        font-size: 9px;
+    }
+}
+
+/*******************/
+/* Mobile */
+/*******************/
+@media screen and (max-width: 576px){
+    .container {
+        width: 92%;
+        max-width: 92%;
+    } 
+}
