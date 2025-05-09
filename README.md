@@ -1,10 +1,14 @@
 # Web-Design-HTML-CSS
 
-## 🚀 About This Project
+## 🚀 About Web-Design-HTML-CSS
 
 This is a **responsive one-page website** designed and developed based on a **Figma prototype** that was also **designed by me**. The purpose of this project is to translate a high-fidelity UI design into a clean, structured HTML & CSS implementation. It serves as both a **design-to-code exercise** and a responsive web design showcase.
 
-### 🎯 Project Goals
+## 🛠 Tech Stack
+  -HTML
+  -CSS
+  
+## 🎯 Project Goals
 
 - 🎨 Design and translate a **Figma prototype** into code with high fidelity.
 - 💡 Implement **responsive design** using CSS media queries.
@@ -24,7 +28,7 @@ This is a **responsive one-page website** designed and developed based on a **Fi
 ## 📸 Screenshots
 
 ### 1️⃣ Desktop Layout
-![Desktop Layout](path-to-image1.png)
+![Desktop Layout](images/)
 *Clean layout designed for large screens and desktops.*
 
 ### 2️⃣ Tablet View
