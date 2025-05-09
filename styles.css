@@ -41,6 +41,12 @@ header nav ul li {
     margin-right: 50px;
 }
 
+header nav ul li.menu img{
+    display: none;
+    width: 50px;
+    height: 40px;
+}
+
 header nav ul li a {
     font-size: 16px;
     font-weight: 400;
@@ -434,6 +440,16 @@ section.copyrights {
         margin-left: 13px;
         font-size: 28px;
     }
+    
+    header nav ul li.menu img{
+        display: inline-block;
+        width: 50px;
+        height: 40px;
+    }
+
+    header nav ul li a {
+        display: none;
+    }
 
     section.mic_image h1 {
         font-size: 24px;
@@ -559,4 +575,167 @@ section.copyrights {
         width: 92%;
         max-width: 92%;
     } 
+
+    header section.logo span {
+        font-size: 20px;
+    }  
+    
+    header nav ul li.menu img{
+        display: inline-block;
+        width: 36px;
+        height: 35px;
+    }
+
+    header nav ul li a {
+        display: none;
+    }
+
+    section.mic_image .image_content {
+        position: initial;
+        text-align: center;
+        margin-top: 48px;
+    }
+
+    section.mic_image .container{
+        align-items: center;
+    }
+
+    section.mic_image h1 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+    
+    section.mic_image p {
+        font-size: 14px;
+        margin-bottom: 25px;
+        width: 415px;
+    }
+
+    section.mic_image button {
+        width: 162px;
+        height: 44px;
+        font-size: 16px;
+    }
+
+    section.products .products_tag{
+        padding-top: 100px;
+    }
+
+    section.products .products_tag h2 {
+        font-weight: 600;
+        font-size: 32px;
+    }
+
+    section.products .products_tag hr {
+        width: 78px;
+        margin: 70px auto;
+        border: 1px solid #717AFB;
+    }
+
+    section.products .products_group .container {
+        flex-wrap: wrap;
+    }
+
+    section.products .products_group .product_info {
+        padding: 47px 0;
+        width: 85%;
+        margin: 0 auto;
+        margin-bottom: 27px;
+    }
+
+    section.products .products_group .product_info:last-of-type {
+        margin-bottom: 0;
+    }
+
+
+    section.products .products_group .product_info.offer::before {
+        top: 13px;
+        right: 13px;
+        padding: 5px 15px;
+        font-size: 13px;     
+    }
+    
+    section.products .products_group .product_info h3 {
+        font-size: 36px; 
+    }
+    
+    section.products .products_group .product_info .price h4 {
+        font-size: 40px;
+        margin-top: 26px;
+    }
+    
+    section.products .products_group .product_info h5 {
+        font-size: 16px;
+        margin-bottom: 26px;
+    }
+    
+    section.products .products_group .product_info button {
+        width: 239px;
+        height: 54px;
+        margin-top: 27px;
+        font-size: 16px;
+    }
+
+    section.exclusive {
+        padding: 60px 0;
+    }
+
+    section.exclusive .container{
+        align-items: center;
+    }
+    
+    section.exclusive h3 {
+        font-size: 32px;
+    }
+    
+    section.exclusive p {
+        width: 421px;
+        font-size: 16px;
+        margin: 35px 0;
+    }
+    
+    section.exclusive input[type=email] {
+        width: 274px;
+        height: 55px;
+        padding-left: 31px;
+        font-size: 16px;
+    }
+    
+    section.exclusive button[type=submit] {
+        height: 55px;
+        font-size: 16px;
+        padding: 0 31px;
+        margin-top: 23px;
+    }
+    
+    section.exclusive button[type=submit]:hover {
+        background-color: white;
+        border: 1px solid #717AFB;
+        color: #717AFB;
+    }
+
+    footer .container{
+        flex-wrap: wrap;
+     }
+    
+    footer ul {
+        width: 100%;
+        padding: 81px 0;
+        text-align: center;
+    }
+    
+    footer ul li {
+        font-size: 24px;
+        margin-bottom: 19px;
+    }
+    
+    footer .container ul li.title {
+        font-size: 32px;
+        margin-bottom: 34px;
+    }
+    
+    section.copyrights {
+        padding: 23px 0;
+        font-size: 14px;
+    }
 }
