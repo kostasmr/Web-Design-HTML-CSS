@@ -25,6 +25,10 @@ This is a **responsive one-page website** designed and developed based on a **Fi
   - Extensive footer with multiple links and layout columns
 - 🔹 **Responsive images** using `srcset` and CSS media queries.
 
+## 🧑‍🎨 Figma Prototypes
+
+Check out the [Figma Prototypes](https://www.figma.com/design/bS4ZwOj3ImtRmfI9BFCW5C/Microsoft-Web?node-id=0-1&m=dev&t=xWxsupRFGtHxSkZm-1)
+
 ## 📸 Screenshots
 
 ### 1️⃣ Desktop Layout
