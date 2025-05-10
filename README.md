@@ -31,40 +31,40 @@ This is a **responsive one-page website** designed and developed based on a **Fi
 ![Desktop Layout](images/Screenshots/Microsoft-Desktop.png)
 
 *Clean layout designed for large screens and desktops.*
-
+<br>
 ### Product Section
 ![Product Section](images/Screenshots/Products-Desktop.png)
 
 *Showcases Microsoft 365 products like Word and Excel.*
-
+<br>
 ### Subscription Section
 ![Subscription Section](images/Screenshots/Exclusive-Desktop.png)
 
 *Simple call-to-action area for users to enter their email.*
-
+<br>
 ### Footer Section
 ![Footer Section](images/Screenshots/Footer-Desktop.png)
 
 *Multi-column footer layout with helpful links.*
 
-
+<br><br>
 
 ### 2️⃣ Tablet View
 ![Tablet View](images/Screenshots/Microsoft-Tablets.png)
-
+<br>
 ### Product Section
 ![Product Section](images/Screenshots/Products-Tablets.png)
 
-
+<br><br>
 
 ### 3️⃣ Mobile View
 ![Mobile View](images/Screenshots/Microsoft-Mobile.png)
-
+<br>
 ### Product Section
 ![Product Section](images/Screenshots/Products-Mobile.png)
-
+<br>
 ### Subscription Section
 ![Subscription Section](images/Screenshots/Exclusive-Mobile.png)
-
+<br>
 ### Footer Section
 ![Footer Section](images/Screenshots/Footer-Mobile.png)
