@@ -31,27 +31,38 @@ This is a **responsive one-page website** designed and developed based on a **Fi
 ![Desktop Layout](images/Screenshots/Microsoft-Desktop.png)
 *Clean layout designed for large screens and desktops.*
 
+## Product Section
+![Product Section](images/Screenshots/Products-Desktop.png)
+*Showcases Microsoft 365 products like Word and Excel.*
+
+## Subscription Section
+![Subscription Section](images/Screenshots/Exclusive-Desktop.png)
+*Simple call-to-action area for users to enter their email.*
+
+## Footer Section
+![Footer Section](images/Screenshots/Footer-Desktop.png)
+*Multi-column footer layout with helpful links.*
+
 ### 2️⃣ Tablet View
 ![Tablet View](images/Screenshots/Microsoft-Tablets.png)
 *Tablet-optimized version with stacked sections.*
+
+## Product Section
+![Product Section](images/Screenshots/Products-Tablets.png)
+*Showcases Microsoft 365 products like Word and Excel.*
 
 ### 3️⃣ Mobile View
 ![Mobile View](images/Screenshots/Microsoft-Mobile.png)
 *Compact and scroll-friendly layout for mobile devices.*
 
-### 4️⃣ Product Section
-![Product Section](images/Screenshots/Prudcts-Desktop.png)
+## Product Section
+![Product Section](images/Screenshots/Products-Mobile.png)
 *Showcases Microsoft 365 products like Word and Excel.*
-![Product Section](images/Screenshots/Prudcts-Tablets.png)
-![Product Section](images/Screenshots/Prudcts-Mobile.png)
 
-### 5️⃣ Subscription Section
-![Subscription Section](images/Screenshots/Exclusive-Desktop.png)
-*Simple call-to-action area for users to enter their email.*
-![Subscription Section](images/Screenshots/Exclusive-Tablets.png)
+## Subscription Section
 ![Subscription Section](images/Screenshots/Exclusive-Mobile.png)
+*Simple call-to-action area for users to enter their email.*
 
-### 6️⃣ Footer Section
-![Footer Section](images/Screenshots/Footer-Desktop.png)
-*Multi-column footer layout with helpful links.*
+## Footer Section
 ![Footer Section](images/Screenshots/Footer-Mobile.png)
+*Multi-column footer layout with helpful links.*
