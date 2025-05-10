@@ -5,8 +5,8 @@
 This is a **responsive one-page website** designed and developed based on a **Figma prototype** that was also **designed by me**. The purpose of this project is to translate a high-fidelity UI design into a clean, structured HTML & CSS implementation. It serves as both a **design-to-code exercise** and a responsive web design showcase.
 
 ## 🛠 Tech Stack
-  -HTML
-  -CSS
+-HTML
+-CSS
   
 ## 🎯 Project Goals
 
@@ -28,25 +28,30 @@ This is a **responsive one-page website** designed and developed based on a **Fi
 ## 📸 Screenshots
 
 ### 1️⃣ Desktop Layout
-![Desktop Layout](images/)
+![Desktop Layout](images/Screenshots/Microsoft-Desktop.png)
 *Clean layout designed for large screens and desktops.*
 
 ### 2️⃣ Tablet View
-![Tablet View](path-to-image2.png)
+![Tablet View](images/Screenshots/Microsoft-Tablets.png)
 *Tablet-optimized version with stacked sections.*
 
 ### 3️⃣ Mobile View
-![Mobile View](path-to-image3.png)
+![Mobile View](images/Screenshots/Microsoft-Mobile.png)
 *Compact and scroll-friendly layout for mobile devices.*
 
 ### 4️⃣ Product Section
-![Product Section](path-to-image4.png)
+![Product Section](images/Screenshots/Prudcts-Desktop.png)
 *Showcases Microsoft 365 products like Word and Excel.*
+![Product Section](images/Screenshots/Prudcts-Tablets.png)
+![Product Section](images/Screenshots/Prudcts-Mobile.png)
 
 ### 5️⃣ Subscription Section
-![Subscription Section](path-to-image5.png)
+![Subscription Section](images/Screenshots/Exclusive-Desktop.png)
 *Simple call-to-action area for users to enter their email.*
+![Subscription Section](images/Screenshots/Exclusive-Tablets.png)
+![Subscription Section](images/Screenshots/Exclusive-Mobile.png)
 
 ### 6️⃣ Footer Section
-![Footer Section](path-to-image6.png)
+![Footer Section](images/Screenshots/Footer-Desktop.png)
 *Multi-column footer layout with helpful links.*
+![Footer Section](images/Screenshots/Footer-Mobile.png)
